@@ -1,0 +1,2 @@
+# BrawlStarsServer
+Wrapper over PyRoyale.
