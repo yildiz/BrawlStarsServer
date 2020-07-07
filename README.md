@@ -5,6 +5,9 @@ We redesigned PyRoyale and wrapped it.
 
 This repository uses the GPLv3 License, you can edit the code but leave it open.
 
+# Information
+ - The server is written in Python 3.8.3, please take this fun.
+ 
 # How to use?
  - You need to install Python 3.8
 <br><br>
