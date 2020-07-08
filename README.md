@@ -21,4 +21,4 @@ This repository uses the GPLv3 License, you can edit the code but leave it open.
   Vorono4kaDev - https://vk.com/vorono4ka_id356219576_id0_id1
  
 # P.S
-  - 300 stars and I will post a full-fledged server in open source.
+  - 1000 stars and I will post a full-fledged server in open source.
